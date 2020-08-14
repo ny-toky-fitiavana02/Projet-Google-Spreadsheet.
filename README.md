@@ -8,18 +8,23 @@ Projet-Google-Spreadsheet:
 
 ├── db     
            
-           ├── emails.json
+           	├── emails.json
 
-           └── emails.csv
+          	 └── emails.csv
 
 		
 
 
 ├── lib 
            
-           └── scrapper.rb
+           	└── scrapper.rb
+	   
+├── spec
 
+		├── scrapper_spec.rb
 
+		└── spec_helper.rb
+	   
 ├── app.rb
 
 ├── config.json
@@ -29,6 +34,8 @@ Projet-Google-Spreadsheet:
 ├── Gemfile.lock
 
 ├── .gitinore
+
+├──.rspec
 
 └── README.md 
 
