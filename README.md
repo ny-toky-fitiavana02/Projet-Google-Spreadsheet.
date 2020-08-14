@@ -4,6 +4,7 @@ Dans ce projet intitulé Google Spreadsheet ,nous allons voir essentiellement le
 
 ## Compostion du projet :
 
+Projet-Google-Spreadsheet:
 
 ├── db     
            
@@ -50,6 +51,5 @@ Après avoir installer tous vos outils, la mise en oeuvre du programme est simpl
 
 Ce projet a été réaliser  par : 
 
-										                                RIANJHARINELINA Ny Toky Fitiavana # spreadsheet_scrapper
-# Projet-Google-Spreadsheet.
-# Projet-Google-Spreadsheet.
+									  RIANJHARINELINA Ny Toky Fitiavana
+
