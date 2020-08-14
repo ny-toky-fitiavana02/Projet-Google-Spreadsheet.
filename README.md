@@ -49,7 +49,5 @@ Après avoir installer tous vos outils, la mise en oeuvre du programme est simpl
 
 ## Auteur :
 
-Ce projet a été réaliser  par : 
-
-									  RIANJHARINELINA Ny Toky Fitiavana
+Ce projet a été réalisé par RIANJHARINELINA Ny Toky Fitiavana https://github.com/ny-toky-fitiavana02
 
